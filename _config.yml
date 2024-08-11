@@ -6,7 +6,7 @@ theme: jekyll-theme-chirpy
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
-lang: en
+lang: ko-KR
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone: Asia/Seoul
@@ -16,10 +16,10 @@ timezone: Asia/Seoul
 
 title: 아카이브 동우 # the main title
 
-tagline: Blog for ML Engineer # it will display as the sub-title
+tagline: 나의 에피소드들 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  "나의 모든 에피소드들"
+  "독서"
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://oseanrecords.github.io"
@@ -33,8 +33,8 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Jay Han
-  email: otzslayer@gmail.com # change to your email address
+  name: 허동우
+  email: oseanrecords.co@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://github.com/otzslayer # change to your github homepage
@@ -91,10 +91,10 @@ theme_mode: # [light | dark]
 # will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-cdn: "https://otzslayer.github.io"
+cdn: "https://oseanrecords.github.io"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/psyduck.png
+avatar: /assets/img/avatar.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
