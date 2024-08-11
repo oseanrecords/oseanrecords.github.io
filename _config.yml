@@ -14,18 +14,18 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Jay's Blog # the main title
+title: 아카이브 동우 # the main title
 
 tagline: Blog for ML Engineer # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  "짧은 지식들을 긴 기억으로 남기기 위한 곳입니다."
+  "나의 모든 에피소드들"
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://otzslayer.github.io"
+url: "https://oseanrecords.github.io"
 
 github:
-  username: otzslayer # change to your github username
+  username: oseanrecords # change to your github username
 
 twitter:
   username: twitter_username # change to your twitter username
